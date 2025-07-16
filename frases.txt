@@ -1,4 +1,5 @@
 La programación es como resolver acertijos.
+ Satoru
 
 Satoru es el mejor 
 
@@ -10,4 +11,12 @@ fede chupa pingos
 
 Fede mero cacorro
 
+
+
+El código limpio es poesía para las máquinas y los humanos.
+Aprender a programar es abrir la puerta a nuevas posibilidades.
+La lógica es el corazón de todo buen programa.
+El trabajo en equipo potencia la creatividad en el desarrollo de software.
+Colaborar permite encontrar soluciones más eficientes y robustas.
+La comunicación efectiva es clave para el éxito de cualquier proyecto de desarrollo.
 
