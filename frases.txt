@@ -1,3 +1,4 @@
 La programación es como resolver acertijos.
 El código limpio es poesía para las máquinas y los humanos.
 Aprender a programar es abrir la puerta a nuevas posibilidades.
+La lógica es el corazón de todo buen programa.
